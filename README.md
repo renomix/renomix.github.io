@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Renomix</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; }
-    h1 { color: #333; }
-    .section { margin-bottom: 30px; }
-    .contact { font-weight: bold; }
-  </style>
-</head>
-<body>
   <h1>Welcome to Renomix</h1>
   <div class="section">
     <p>We provide home/office Renovation, Built, Design & Refurbishment services:</p>
